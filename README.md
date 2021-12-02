@@ -1,1 +1,1 @@
-highcharts test
+highcharts-test-vanilla-js
